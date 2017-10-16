@@ -6,6 +6,7 @@
 This fork adds support for priority queue for fast n-best tagging than the orignal.
 
 Original project at [http://wapiti.limsi.fr](http://wapiti.limsi.fr).
+
 ---
 Wapiti is a very fast toolkit for segmenting and labeling sequences with
 discriminative models. It is based on maxent models, maximum entropy Markov
